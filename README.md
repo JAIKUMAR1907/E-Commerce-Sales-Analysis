@@ -118,10 +118,9 @@ Electronics drives the highest revenue while Beauty lags behind. The West region
 ```
 📦 E-Commerce-Sales-Analysis
  ┣ 📓 E-Commerce Sales Analytics.ipynb
+ ┣ 📄 README.md
  ┣ 📄 e-commerce_sales_analysis_rawdata.csv
- ┣ 📄 e-commerce_sales_cleaned_data.csv
- ┣ 📂 images
- ┗ 📄 README.md
+ ┗ 📄 e-commerce_sales_cleaned_data.csv
 ```
 
 ```
